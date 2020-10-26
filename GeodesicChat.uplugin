@@ -1,0 +1,22 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1",
+	"FriendlyName": "GeodesicChat",
+	"Description": "This plugin will open chat windows as requested then allow the two chat windows to interface through the UE Messaging subsystem.",
+	"Category": "Geodesic Chat",
+	"CreatedBy": "Jared Therriault",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "GeodesicChat",
+			"Type": "Editor"
+		}
+	]
+}
